@@ -1,4 +1,5 @@
 >I just slightly modified the classic waybar settings from hyprdots.
+>
 >This repository is just a backup of my settings.
 
 ### Installation
