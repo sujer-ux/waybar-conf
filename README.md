@@ -1,3 +1,5 @@
+>hyprdots only
+
 ### Installation
 ```
 git clone https://github.com/sujer-ux/waybar-conf.git
