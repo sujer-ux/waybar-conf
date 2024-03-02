@@ -1,6 +1,9 @@
->hyprdots only
+>I just slightly modified the classic waybar settings from hyprdots.
+>This repository is just a backup of my settings.
 
 ### Installation
+> Hyprdots only!
+
 ```
 git clone https://github.com/sujer-ux/waybar-conf.git
 cd waybar-conf
