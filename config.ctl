@@ -1,0 +1,2 @@
+0|24|top| custom/rofi ( hyprland/workspaces hyprland/window )|( clock )|( custom/cava-internal ) ( backlight network bluetooth pulseaudio pulseaudio#microphone custom/updates ) ( tray battery )  hyprland/language  ( custom/wallchange custom/mode custom/wbar custom/cliphist custom/power )
+1|24|top| custom/rofi ( hyprland/workspaces hyprland/window )|( clock )|( backlight network bluetooth pulseaudio pulseaudio#microphone custom/updates ) ( tray battery )  hyprland/language  ( custom/wallchange custom/mode custom/wbar custom/cliphist custom/power )
