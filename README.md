@@ -11,4 +11,4 @@ cd waybar-conf
 cp -rf * ~/.config/waybar/
 ```
 #### Prew
-![prew](https://telegra.ph/file/3b1559bb55d09c692222f.png "prew")
+![prew](https://telegra.ph/file/d7bf20e611150af0393ad.png "prew")
